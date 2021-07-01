@@ -6,3 +6,5 @@ Primeiro contato com a plataforma
 
 - Strogonoff de Frango
 - Strogonoff de Carne
+
+- Pavê
